@@ -10,9 +10,9 @@ def main():
 
     args = parser.parse_args()
 
-    df1 = extract_csv(args.xlsx1, args.name)
-    df2 = extract_csv(args.xlsx2, args.name)
-    error_map = compare_codes(df1, df2)
+    lawrence_df = extract_csv(args.xlsx1, args.name)
+    musab_df = extract_csv(args.xlsx2, args.name)
+    error_map = compare_codes(lawrence_df, musab_df)
 
     save_json(error_map)
 
