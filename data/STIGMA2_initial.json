@@ -1,0 +1,86 @@
+{
+    "ID 28": { //remove 4.4
+        "Lawrence": [
+            4.4
+        ],
+        "Musab": []
+    },
+    "ID 31": { //remove 2.1, keep 6
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            6
+        ]
+    },
+    "ID 32": { //keep 2.1
+        "Lawrence": [
+            2.2
+        ],
+        "Musab": [
+            2.1
+        ]
+    },
+    "ID 38": { //remove 4.3
+        "Lawrence": [
+            4.3
+        ],
+        "Musab": [
+            4.2
+        ]
+    },
+    "ID 100": { //keep 4.3
+        "Lawrence": [],
+        "Musab": [
+            4.3
+        ]
+    },
+    "ID 101": { //remove
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": []
+    },
+    "ID 102": { //remove
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": []
+    },
+    "ID 104": { //keep
+        "Lawrence": [],
+        "Musab": [
+            2.2
+        ]
+    },
+    "ID 113": { //keep
+        "Lawrence": [
+            "Unclassified words: play game"
+        ],
+        "Musab": [
+            5.3
+        ]
+    },
+    "ID 114": { //remove 3.1
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": []
+    },
+    "ID 255": { //remove 3.1
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            2.1
+        ]
+    },
+    "ID 259": { //keep 5.2
+        "Lawrence": [
+            5.2
+        ],
+        "Musab": [
+            "Unclassified words: dummy text"
+        ]
+    }
+}

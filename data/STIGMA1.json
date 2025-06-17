@@ -1,0 +1,513 @@
+{
+    "ID 41": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": []
+    },
+    "ID 42": {
+        "Lawrence": [],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 43": {
+        "Lawrence": [
+            6.3
+        ],
+        "Musab": [
+            6.4
+        ]
+    },
+    "ID 44": {
+        "Lawrence": [],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 46": {
+        "Lawrence": [],
+        "Musab": [
+            6.3
+        ]
+    },
+    "ID 50": {
+        "Lawrence": [],
+        "Musab": [
+            3.4
+        ]
+    },
+    "ID 60": {
+        "Lawrence": [],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 61": {
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": []
+    },
+    "ID 63": {
+        "Lawrence": [
+            6.4
+        ],
+        "Musab": []
+    },
+    "ID 66": {
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": []
+    },
+    "ID 67": {
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": []
+    },
+    "ID 73": {
+        "Lawrence": [
+            3.2,
+            4.1,
+            4.2
+        ],
+        "Musab": [
+            1.1,
+            3.4
+        ]
+    },
+    "ID 76": {
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 81": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": []
+    },
+    "ID 87": {
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": []
+    },
+    "ID 88": {
+        "Lawrence": [],
+        "Musab": [
+            6.1
+        ]
+    },
+    "ID 91": {
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 92": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 94": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 96": {
+        "Lawrence": [],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 115": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            1.3
+        ]
+    },
+    "ID 120": {
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            5.3
+        ]
+    },
+    "ID 129": {
+        "Lawrence": [],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 132": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 133": {
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": []
+    },
+    "ID 141": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            4.1,
+            5.1
+        ]
+    },
+    "ID 142": {
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 143": {
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": []
+    },
+    "ID 144": {
+        "Lawrence": [
+            1.3
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 145": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 146": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": []
+    },
+    "ID 148": {
+        "Lawrence": [
+            "Unclassified words: other"
+        ],
+        "Musab": [
+            3.3,
+            "Unclassified words: dummy"
+        ]
+    },
+    "ID 150": {
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 151": {
+        "Lawrence": [
+            "Unclassified words: other"
+        ],
+        "Musab": [
+            6.4,
+            "Unclassified words: dummy"
+        ]
+    },
+    "ID 154": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": []
+    },
+    "ID 155": {
+        "Lawrence": [
+            3.4
+        ],
+        "Musab": [
+            1.2
+        ]
+    },
+    "ID 160": {
+        "Lawrence": [
+            "Unclassified words: other"
+        ],
+        "Musab": [
+            3.3,
+            "Unclassified words: dummy"
+        ]
+    },
+    "ID 161": {
+        "Lawrence": [
+            4.1,
+            4.2
+        ],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 163": {
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 166": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 169": {
+        "Lawrence": [],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 172": {
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 176": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            1.1,
+            3.3
+        ]
+    },
+    "ID 177": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": []
+    },
+    "ID 179": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            3.2,
+            4.1
+        ]
+    },
+    "ID 180": {
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            5.3
+        ]
+    },
+    "ID 181": {
+        "Lawrence": [
+            3.3,
+            5.1
+        ],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 184": {
+        "Lawrence": [
+            6.2
+        ],
+        "Musab": [
+            7
+        ]
+    },
+    "ID 186": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 187": {
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 188": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 189": {
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 191": {
+        "Lawrence": [],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 198": {
+        "Lawrence": [],
+        "Musab": [
+            4.2
+        ]
+    },
+    "ID 199": {
+        "Lawrence": [],
+        "Musab": [
+            1.3
+        ]
+    },
+    "ID 200": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 203": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            3.1,
+            3.4,
+            6.2
+        ]
+    },
+    "ID 206": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": []
+    },
+    "ID 212": {
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 214": {
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 216": {
+        "Lawrence": [
+            1.1,
+            4.3
+        ],
+        "Musab": [
+            2.1,
+            3.2
+        ]
+    },
+    "ID 217": {
+        "Lawrence": [],
+        "Musab": [
+            1.3
+        ]
+    },
+    "ID 221": {
+        "Lawrence": [
+            4.1
+        ],
+        "Musab": []
+    },
+    "ID 224": {
+        "Lawrence": [
+            2.1,
+            5.2
+        ],
+        "Musab": [
+            5.1
+        ]
+    },
+    "ID 232": {
+        "Lawrence": [],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 234": {
+        "Lawrence": [
+            2.1
+        ],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 243": {
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 244": {
+        "Lawrence": [
+            "Unclassified words: other"
+        ],
+        "Musab": [
+            2.1,
+            "Unclassified words: dummy"
+        ]
+    },
+    "ID 247": {
+        "Lawrence": [],
+        "Musab": [
+            6.4
+        ]
+    }
+}

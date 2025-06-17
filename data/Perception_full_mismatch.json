@@ -1,0 +1,436 @@
+{
+    "ID 54": { // fixed
+        "Lawrence": [
+            "Unclassified words: uncomfortable"
+        ],
+        "Musab": [
+            "Unclassified words: terrible, uncomfortable"
+        ]
+    },
+    "ID 78": { // fixed
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 84": { // fixed
+        "Lawrence": [
+            3.2,
+            "Unclassified words: mistake"
+        ],
+        "Musab": [
+            "Unclassified words: mistake, wrong"
+        ]
+    },
+    "ID 87": { // todo: rejection 2.3 or 5.3
+        "Lawrence": [
+            2.3
+        ],
+        "Musab": [
+            5.3
+        ]
+    },
+    "ID 98": { // todo: point of no return 2.2 or 4.2
+        "Lawrence": [
+            2.2
+        ],
+        "Musab": [
+            4.2
+        ]
+    },
+    "ID 100": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            4.2
+        ]
+    },
+    "ID 101": { //todo: rejection 2.3 or 5.3
+        "Lawrence": [
+            2.2,
+            2.3
+        ],
+        "Musab": [
+            5.3,
+            6,
+            "Unclassified words: confusion"
+        ]
+    },
+    "ID 102": { // fixed
+        "Lawrence": [
+            3.2,
+            5.1,
+            "Unclassified words: error, analysis"
+        ],
+        "Musab": [
+            4.1,
+            "Unclassified words: consequences, error"
+        ]
+    },
+    "ID 105": { //todo: burnout 2.4 or 5.2
+        "Lawrence": [
+            2.4
+        ],
+        "Musab": [
+            6,
+            "Unclassified words: mistakes"
+        ]
+    },
+    "ID 108": { // fixed
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": [
+            6,
+            "Unclassified words: consequences"
+        ]
+    },
+    "ID 110": { // fixed
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": []
+    },
+    "ID 113": { // todo: try more 3.2 or 4.1
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 116": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            "Unclassified words: salmon"
+        ]
+    },
+    "ID 119": { // fixed
+        "Lawrence": [
+            6,
+            "Unclassified words: failure"
+        ],
+        "Musab": [
+            3.1
+        ]
+    },
+    "ID 124": { // fixed
+        "Lawrence": [
+            6,
+            "Unclassified words: failure"
+        ],
+        "Musab": [
+            3.1
+        ]
+    },
+    "ID 131": {  // fixed
+        "Lawrence": [],
+        "Musab": [
+            6,
+            "Unclassified words: thermodynamics"
+        ]
+    },
+    "ID 137": { // fixed
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 138": { // fixed
+        "Lawrence": [
+            6,
+            "Unclassified words: poor (similar to bad)"
+        ],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 139": { // todo: below average grade or self perception?
+        "Lawrence": [],
+        "Musab": [
+            3.1
+        ]
+    },
+    "ID 142": { // todo: unfulfilled, unrepresentative 3.1 or 3.2
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 146": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            6,
+            "Unclassified words: overthinking"
+        ]
+    },
+    "ID 147": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 160": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            6,
+            "Unclassified words: difficult"
+        ]
+    },
+    "ID 168": { // fixed
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": [
+            2.5
+        ]
+    },
+    "ID 169": { // todo: feeling unfulfiled 2.2 or 3.2
+        "Lawrence": [
+            2.2,
+            6,
+            "Unclassified words: unaccomplsihed assignments"
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 170": { // todo: outcome
+        "Lawrence": [
+            5.1
+        ],
+        "Musab": [
+            6,
+            "Unclassified words: outcome"
+        ]
+    },
+    "ID 173": { // fixed
+        "Lawrence": [
+            4.1
+        ],
+        "Musab": []
+    },
+    "ID 178": { // fixed
+        "Lawrence": [
+            2.2,
+            3.2
+        ],
+        "Musab": [
+            2.3
+        ]
+    },
+    "ID 182": { // fixed
+        "Lawrence": [
+            4.2
+        ],
+        "Musab": [
+            6,
+            "Unclassified words: unfair"
+        ]
+    },
+    "ID 185": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            5.1
+        ]
+    },
+    "ID 187": { //todo: rejection 2.3 or 5.3
+        "Lawrence": [
+            2.3,
+            5.1
+        ],
+        "Musab": [
+            5.3
+        ]
+    },
+    "ID 190": { // fixed
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": [
+            6,
+            "Unclassified words: 0"
+        ]
+    },
+    "ID 191": { // todo: try again 3.3 or 4.1
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 193": { // todo: questioning 3.1 or 3.2
+        "Lawrence": [
+            3.1,
+            4.2,
+            "Unclassified words: bad"
+        ],
+        "Musab": [
+            3.2,
+            "Unclassified words: bad, avoid"
+        ]
+    },
+    "ID 197": { // fixed
+        "Lawrence": [
+            4.2
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 200": { //todo: try again 3.3 or 4.1
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 203": { // fixed
+        "Lawrence": [
+            2.2
+        ],
+        "Musab": [
+            2.3
+        ]
+    },
+    "ID 204": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            2.3
+        ]
+    },
+    "ID 207": { //todo: rejection
+        "Lawrence": [
+            2.3
+        ],
+        "Musab": [
+            5.3
+        ]
+    },
+    "ID 210": { // fixed
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 211": { // fixed
+        "Lawrence": [
+            3.1
+        ],
+        "Musab": [
+            3.2
+        ]
+    },
+    "ID 212": { // fixed
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            4.1,
+            5.1
+        ]
+    },
+    "ID 216": { // fixed
+        "Lawrence": [
+            "Unclassified words: struggle, barrier"
+        ],
+        "Musab": [
+            2.6,
+            3.2,
+            "Unclassified words: barrier, doubt"
+        ]
+    },
+    "ID 219": { //keep it in 3.3
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 221": { // fixed
+        "Lawrence": [
+            "Unclassified words: mishap, mistakes"
+        ],
+        "Musab": [
+            3.3,
+            "Unclassified words: sig amt mistakes"
+        ]
+    },
+    "ID 224": { // todo: need to improve 3.2 or 4.1
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 225": { // fixed
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 229": { // fixed
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": []
+    },
+    "ID 236": { // fixed
+        "Lawrence": [
+            6,
+            "Unclassified words: another lesson"
+        ],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 241": { // fixed
+        "Lawrence": [
+            6,
+            "Unclassified words: dismissed"
+        ],
+        "Musab": [
+            3.1
+        ]
+    },
+    "ID 244": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            6,
+            "Unclassified words: risk"
+        ]
+    },
+    "ID 253": { // fixed
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            2.3
+        ]
+    },
+    "ID 258": { // fixed
+        "Lawrence": [],
+        "Musab": [
+            5.1
+        ]
+    },
+    "ID 259": { // todo: try again
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": []
+    }
+}

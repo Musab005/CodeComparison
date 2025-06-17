@@ -1,0 +1,106 @@
+{
+    "ID 27": { // remove 4.1
+        "Lawrence": [],
+        "Musab": [
+            4.1
+        ]
+    },
+    "ID 28": { //keep 2.2
+        "Lawrence": [],
+        "Musab": [
+            2.2
+        ]
+    },
+    "ID 29": { //keep 6.4
+        "Lawrence": [],
+        "Musab": [
+            6.4
+        ]
+    },
+    "ID 30": { //remove 2.1
+        "Lawrence": [],
+        "Musab": [
+            2.1
+        ]
+    },
+    "ID 32": { //todo: keep 1.1 and also somewhere in 3 for "focus on learning over gpa"
+        "Lawrence": [
+            1.1
+        ],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 34": { // remove 6.3
+        "Lawrence": [
+            6.4
+        ],
+        "Musab": [
+            6.3
+        ]
+    },
+    "ID 36": { //keep 5.1
+        "Lawrence": [],
+        "Musab": [
+            5.1
+        ]
+    },
+    "ID 100": { //keep 3.3
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": []
+    },
+    "ID 104": { //remove 5.2
+        "Lawrence": [],
+        "Musab": [
+            5.2
+        ]
+    },
+    "ID 105": { //todo: keep 3.3? focus on learning over grades
+        "Lawrence": [],
+        "Musab": [
+            3.3
+        ]
+    },
+    "ID 245": { //keep 6.3
+        "Lawrence": [],
+        "Musab": [
+            6.3
+        ]
+    },
+    "ID 247": { //keep all
+        "Lawrence": [
+            6.3
+        ],
+        "Musab": [
+            6.4,
+            7
+        ]
+    },
+    "ID 256": { //remove 5.1, keep 3.3
+        "Lawrence": [
+            3.3
+        ],
+        "Musab": [
+            5.1
+        ]
+    },
+    "ID 258": { //remove 3.2, keep 1.1
+        "Lawrence": [
+            3.2
+        ],
+        "Musab": [
+            1.1
+        ]
+    },
+    "ID 259": { //remove 2.1
+        "Lawrence": [
+            "Unclassified words: Fail more students; fail more often"
+        ],
+        "Musab": [
+            2.1,
+            "Unclassified words: dummy text"
+        ]
+    }
+}
