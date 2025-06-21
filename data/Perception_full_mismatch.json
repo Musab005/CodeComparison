@@ -24,7 +24,7 @@
             "Unclassified words: mistake, wrong"
         ]
     },
-    "ID 87": { // todo: rejection 2.3 or 5.3
+    "ID 87": { // fixed
         "Lawrence": [
             2.3
         ],
@@ -32,7 +32,7 @@
             5.3
         ]
     },
-    "ID 98": { // todo: point of no return 2.2 or 4.2
+    "ID 98": { // fixed
         "Lawrence": [
             2.2
         ],
@@ -46,7 +46,7 @@
             4.2
         ]
     },
-    "ID 101": { //todo: rejection 2.3 or 5.3
+    "ID 101": { //fixed
         "Lawrence": [
             2.2,
             2.3
@@ -68,7 +68,7 @@
             "Unclassified words: consequences, error"
         ]
     },
-    "ID 105": { //todo: burnout 2.4 or 5.2
+    "ID 105": { //fixed
         "Lawrence": [
             2.4
         ],
@@ -92,7 +92,7 @@
         ],
         "Musab": []
     },
-    "ID 113": { // todo: try more 3.2 or 4.1
+    "ID 113": { // fixed
         "Lawrence": [
             3.2
         ],
@@ -148,13 +148,13 @@
             1.1
         ]
     },
-    "ID 139": { // todo: below average grade or self perception?
+    "ID 139": { // fixed
         "Lawrence": [],
         "Musab": [
             3.1
         ]
     },
-    "ID 142": { // todo: unfulfilled, unrepresentative 3.1 or 3.2
+    "ID 142": { // todo: unfulfilled
         "Lawrence": [
             3.1
         ],
@@ -190,7 +190,7 @@
             2.5
         ]
     },
-    "ID 169": { // todo: feeling unfulfiled 2.2 or 3.2
+    "ID 169": { // fixed
         "Lawrence": [
             2.2,
             6,
@@ -200,7 +200,7 @@
             3.2
         ]
     },
-    "ID 170": { // todo: outcome
+    "ID 170": { // fixed
         "Lawrence": [
             5.1
         ],
@@ -239,7 +239,7 @@
             5.1
         ]
     },
-    "ID 187": { //todo: rejection 2.3 or 5.3
+    "ID 187": { //fixed
         "Lawrence": [
             2.3,
             5.1
@@ -257,7 +257,7 @@
             "Unclassified words: 0"
         ]
     },
-    "ID 191": { // todo: try again 3.3 or 4.1
+    "ID 191": { // fixed
         "Lawrence": [
             3.3
         ],
@@ -265,7 +265,7 @@
             4.1
         ]
     },
-    "ID 193": { // todo: questioning 3.1 or 3.2
+    "ID 193": { // fixed
         "Lawrence": [
             3.1,
             4.2,
@@ -284,7 +284,7 @@
             3.2
         ]
     },
-    "ID 200": { //todo: try again 3.3 or 4.1
+    "ID 200": { // fixed
         "Lawrence": [
             3.3
         ],
@@ -306,7 +306,7 @@
             2.3
         ]
     },
-    "ID 207": { //todo: rejection
+    "ID 207": { //fixed
         "Lawrence": [
             2.3
         ],
@@ -366,7 +366,7 @@
             "Unclassified words: sig amt mistakes"
         ]
     },
-    "ID 224": { // todo: need to improve 3.2 or 4.1
+    "ID 224": { // fixed
         "Lawrence": [
             3.2
         ],
@@ -427,7 +427,7 @@
             5.1
         ]
     },
-    "ID 259": { // todo: try again
+    "ID 259": { // fixed
         "Lawrence": [
             3.3
         ],

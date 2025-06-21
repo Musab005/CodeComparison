@@ -1,17 +1,17 @@
 {
-    "ID 41": {
+    "ID 41": {//keep 2.1 - fixed
         "Lawrence": [
             2.1
         ],
         "Musab": []
     },
-    "ID 42": {
+    "ID 42": { //remove 3.3 - fixed
         "Lawrence": [],
         "Musab": [
             3.3
         ]
     },
-    "ID 43": {
+    "ID 43": { //keep 6.3 - fixed
         "Lawrence": [
             6.3
         ],
@@ -19,31 +19,31 @@
             6.4
         ]
     },
-    "ID 44": {
+    "ID 44": { //remove 1.1 - fixed
         "Lawrence": [],
         "Musab": [
             1.1
         ]
     },
-    "ID 46": {
+    "ID 46": { //keep 6.3 - fixed
         "Lawrence": [],
         "Musab": [
             6.3
         ]
     },
-    "ID 50": {
+    "ID 50": { //remove 3.4 - fixed
         "Lawrence": [],
         "Musab": [
             3.4
         ]
     },
-    "ID 60": {
+    "ID 60": { //keep 3.3
         "Lawrence": [],
         "Musab": [
             3.3
         ]
     },
-    "ID 61": {
+    "ID 61": { //keep 3.3
         "Lawrence": [
             3.3
         ],
@@ -55,13 +55,13 @@
         ],
         "Musab": []
     },
-    "ID 66": {
+    "ID 66": { //keep 3.3
         "Lawrence": [
             3.3
         ],
         "Musab": []
     },
-    "ID 67": {
+    "ID 67": { //keep 5.1
         "Lawrence": [
             5.1
         ],
@@ -69,16 +69,16 @@
     },
     "ID 73": {
         "Lawrence": [
-            3.2,
-            4.1,
-            4.2
+            3.2, //put to 1.1
+            4.1, //keep
+            4.2 //keep
         ],
         "Musab": [
-            1.1,
-            3.4
+            1.1, // keep
+            3.4 //keep 3.4
         ]
     },
-    "ID 76": {
+    "ID 76": { //keep both
         "Lawrence": [
             3.1
         ],
@@ -86,25 +86,25 @@
             3.3
         ]
     },
-    "ID 81": {
+    "ID 81": { //remove 3.2
         "Lawrence": [
             3.2
         ],
         "Musab": []
     },
-    "ID 87": {
+    "ID 87": { //keep 3.3
         "Lawrence": [
             3.3
         ],
         "Musab": []
     },
-    "ID 88": {
+    "ID 88": { //keep 6.1
         "Lawrence": [],
         "Musab": [
             6.1
         ]
     },
-    "ID 91": {
+    "ID 91": { //remove 3.2
         "Lawrence": [
             1.1
         ],
@@ -112,7 +112,7 @@
             3.2
         ]
     },
-    "ID 92": {
+    "ID 92": { // 3.2, 3.3
         "Lawrence": [
             2.1
         ],
@@ -120,7 +120,7 @@
             3.2
         ]
     },
-    "ID 94": {
+    "ID 94": { //only 3.2
         "Lawrence": [
             2.1
         ],
@@ -128,13 +128,13 @@
             3.2
         ]
     },
-    "ID 96": {
+    "ID 96": { //keep 3.2,3.3
         "Lawrence": [],
         "Musab": [
             3.3
         ]
     },
-    "ID 115": {
+    "ID 115": { //remove 1.3
         "Lawrence": [
             2.1
         ],
@@ -142,7 +142,7 @@
             1.3
         ]
     },
-    "ID 120": {
+    "ID 120": { //remove 5.3
         "Lawrence": [
             3.3
         ],
@@ -150,13 +150,13 @@
             5.3
         ]
     },
-    "ID 129": {
+    "ID 129": { //both 1.1, 3.2
         "Lawrence": [],
         "Musab": [
             1.1
         ]
     },
-    "ID 132": {
+    "ID 132": { //remove 3.3
         "Lawrence": [
             2.1
         ],
@@ -164,13 +164,13 @@
             3.3
         ]
     },
-    "ID 133": {
+    "ID 133": { //keep category 5 bcz 5.2 already there
         "Lawrence": [
             5.1
         ],
         "Musab": []
     },
-    "ID 141": {
+    "ID 141": { //no 2.1
         "Lawrence": [
             2.1
         ],
@@ -179,7 +179,7 @@
             5.1
         ]
     },
-    "ID 142": {
+    "ID 142": { //remove 3.3
         "Lawrence": [
             3.1
         ],
@@ -187,13 +187,13 @@
             3.3
         ]
     },
-    "ID 143": {
+    "ID 143": { //remove 1.1
         "Lawrence": [
             1.1
         ],
         "Musab": []
     },
-    "ID 144": {
+    "ID 144": { //move 1.3 into 3
         "Lawrence": [
             1.3
         ],
@@ -201,7 +201,7 @@
             3.3
         ]
     },
-    "ID 145": {
+    "ID 145": { //remove 3.2
         "Lawrence": [
             3.2
         ],
@@ -209,13 +209,13 @@
             1.1
         ]
     },
-    "ID 146": {
+    "ID 146": { // keep 2.1
         "Lawrence": [
             2.1
         ],
         "Musab": []
     },
-    "ID 148": {
+    "ID 148": { //other
         "Lawrence": [
             "Unclassified words: other"
         ],
@@ -224,7 +224,7 @@
             "Unclassified words: dummy"
         ]
     },
-    "ID 150": {
+    "ID 150": { //1.1 and 3.3 only
         "Lawrence": [
             1.1
         ],
@@ -232,7 +232,7 @@
             3.2
         ]
     },
-    "ID 151": {
+    "ID 151": { //other
         "Lawrence": [
             "Unclassified words: other"
         ],
@@ -241,13 +241,13 @@
             "Unclassified words: dummy"
         ]
     },
-    "ID 154": {
+    "ID 154": { //keep 3.2
         "Lawrence": [
             3.2
         ],
         "Musab": []
     },
-    "ID 155": {
+    "ID 155": { //other
         "Lawrence": [
             3.4
         ],
@@ -255,7 +255,7 @@
             1.2
         ]
     },
-    "ID 160": {
+    "ID 160": { //other
         "Lawrence": [
             "Unclassified words: other"
         ],
@@ -264,7 +264,7 @@
             "Unclassified words: dummy"
         ]
     },
-    "ID 161": {
+    "ID 161": { //remove 4.2, revise categpory name 5.2
         "Lawrence": [
             4.1,
             4.2
@@ -273,7 +273,7 @@
             5.2
         ]
     },
-    "ID 163": {
+    "ID 163": { //
         "Lawrence": [
             5.1
         ],
@@ -281,7 +281,7 @@
             5.2
         ]
     },
-    "ID 166": {
+    "ID 166": { //keep 4.1, rmeove 2.1
         "Lawrence": [
             2.1
         ],
@@ -289,13 +289,13 @@
             4.1
         ]
     },
-    "ID 169": {
+    "ID 169": { //1.1, 3.2
         "Lawrence": [],
         "Musab": [
             1.1
         ]
     },
-    "ID 172": {
+    "ID 172": { //keep in 5
         "Lawrence": [
             5.1
         ],
@@ -303,7 +303,7 @@
             5.2
         ]
     },
-    "ID 176": {
+    "ID 176": { //1.1, 2.1 only
         "Lawrence": [
             2.1
         ],
@@ -312,13 +312,13 @@
             3.3
         ]
     },
-    "ID 177": {
+    "ID 177": { //remove 3.2
         "Lawrence": [
             3.2
         ],
         "Musab": []
     },
-    "ID 179": {
+    "ID 179": { //just reomve 2.1
         "Lawrence": [
             2.1
         ],
@@ -327,7 +327,7 @@
             4.1
         ]
     },
-    "ID 180": {
+    "ID 180": { //keep 3,3
         "Lawrence": [
             3.3
         ],
@@ -335,7 +335,7 @@
             5.3
         ]
     },
-    "ID 181": {
+    "ID 181": { //3.3 rmeove
         "Lawrence": [
             3.3,
             5.1
@@ -344,7 +344,7 @@
             5.2
         ]
     },
-    "ID 184": {
+    "ID 184": { //6.2 makes sense, rmeove 7
         "Lawrence": [
             6.2
         ],
@@ -352,7 +352,7 @@
             7
         ]
     },
-    "ID 186": {
+    "ID 186": { //remove 3.2
         "Lawrence": [
             3.2
         ],
@@ -360,7 +360,7 @@
             1.1
         ]
     },
-    "ID 187": {
+    "ID 187": { //remove 3.3, keep 3.1
         "Lawrence": [
             3.1
         ],
@@ -368,7 +368,7 @@
             3.3
         ]
     },
-    "ID 188": {
+    "ID 188": { // keep both
         "Lawrence": [
             3.2
         ],
@@ -376,7 +376,7 @@
             4.1
         ]
     },
-    "ID 189": {
+    "ID 189": { //only 3.3
         "Lawrence": [
             3.1
         ],
@@ -384,25 +384,25 @@
             3.3
         ]
     },
-    "ID 191": {
+    "ID 191": { //keep 4.1
         "Lawrence": [],
         "Musab": [
             4.1
         ]
     },
-    "ID 198": {
+    "ID 198": { //keep 4.2
         "Lawrence": [],
         "Musab": [
             4.2
         ]
     },
-    "ID 199": {
+    "ID 199": { //remove 1.3
         "Lawrence": [],
         "Musab": [
             1.3
         ]
     },
-    "ID 200": {
+    "ID 200": { //3.2, 3.3 only
         "Lawrence": [
             2.1
         ],
@@ -410,7 +410,7 @@
             3.2
         ]
     },
-    "ID 203": {
+    "ID 203": { //fixed
         "Lawrence": [
             2.1
         ],
@@ -426,7 +426,7 @@
         ],
         "Musab": []
     },
-    "ID 212": {
+    "ID 212": { //remove 3.2
         "Lawrence": [
             3.2
         ],
@@ -434,7 +434,7 @@
             1.1
         ]
     },
-    "ID 214": {
+    "ID 214": { //remove 3.1, keep 3.2,3.3
         "Lawrence": [
             3.1
         ],
@@ -442,7 +442,7 @@
             3.3
         ]
     },
-    "ID 216": {
+    "ID 216": { //fixed
         "Lawrence": [
             1.1,
             4.3
@@ -452,19 +452,19 @@
             3.2
         ]
     },
-    "ID 217": {
+    "ID 217": { //remove 1.3
         "Lawrence": [],
         "Musab": [
             1.3
         ]
     },
-    "ID 221": {
+    "ID 221": { //remove 4.1
         "Lawrence": [
             4.1
         ],
         "Musab": []
     },
-    "ID 224": {
+    "ID 224": { //2.1, 5.1
         "Lawrence": [
             2.1,
             5.2
@@ -473,13 +473,13 @@
             5.1
         ]
     },
-    "ID 232": {
+    "ID 232": { //remove 3.3
         "Lawrence": [],
         "Musab": [
             3.3
         ]
     },
-    "ID 234": {
+    "ID 234": { //6.4 dont know
         "Lawrence": [
             2.1
         ],
@@ -487,7 +487,7 @@
             5.2
         ]
     },
-    "ID 243": {
+    "ID 243": { //1.1, 3.2
         "Lawrence": [
             1.1
         ],
@@ -495,7 +495,7 @@
             3.3
         ]
     },
-    "ID 244": {
+    "ID 244": { // other
         "Lawrence": [
             "Unclassified words: other"
         ],
@@ -504,7 +504,7 @@
             "Unclassified words: dummy"
         ]
     },
-    "ID 247": {
+    "ID 247": { //remove 6.4
         "Lawrence": [],
         "Musab": [
             6.4
